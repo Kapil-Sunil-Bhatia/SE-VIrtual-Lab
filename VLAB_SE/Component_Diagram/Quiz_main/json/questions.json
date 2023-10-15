@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the primary purpose of a component diagram in software engineering?",
+    "choice1": "To illustrate the runtime behavior of the system",
+    "choice2": "To depict the structure and relationships among software components",
+    "choice3": "To capture user requirements",
+    "choice4": "DTo document the flow of data within the system",
+    "answer": 2
+  },
+  {
+    "question": "In a component diagram, what does a dashed line connecting two components indicate?",
+    "choice1": "Aggregation relationship",
+    "choice2": "Composition relationship",
+    "choice3": "Dependency relationship",
+    "choice4": "Inheritance relationship",
+    "answer": 3
+  },
+  {
+    "question": "Which UML diagram type is most closely related to a component diagram?",
+    "choice1": "Class diagram",
+    "choice2": "Sequence diagram",
+    "choice3": "Use case diagram",
+    "choice4": "Deployment diagram",
+    "answer": 4
+  },
+  {
+    "question": "What is a stereotype in a component diagram?",
+    "choice1": "A specialized type of component",
+    "choice2": "A user or external entity",
+    "choice3": "A type of dependency",
+    "choice4": "A physical connection between components",
+    "answer": 1
+  },
+  
+  {
+    "question": "In a component diagram, what does a <provided interface> indicate?",
+    "choice1": "The component requires this interface from other components",
+    "choice2": "The component provides this interface to other components",
+    "choice3": "The component has an association with this interface",
+    "choice4": "The component is dependent on this interface",
+    "answer": 2
+  }
+  
+]

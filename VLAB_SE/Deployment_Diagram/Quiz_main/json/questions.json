@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the primary purpose of a deployment diagram in software engineering?",
+    "choice1": "To illustrate the runtime behavior of the system",
+    "choice2": "To depict the structure and relationships among software components",
+    "choice3": "To capture user requirements",
+    "choice4": "DTo document the flow of data within the system",
+    "answer": 1
+  },
+  {
+    "question": "In a deployment diagram, what does a solid line connecting a component to a node represent?",
+    "choice1": "A physical connection between a software component and hardware node",
+    "choice2": "A logical association between software components",
+    "choice3": "An aggregation relationship",
+    "choice4": "A communication pathway",
+    "answer": 1
+  },
+  {
+    "question": "Which UML diagram type is most closely related to a deployment diagram?",
+    "choice1": "Class diagram",
+    "choice2": "Sequence diagram",
+    "choice3": "Use case diagram",
+    "choice4": "Component diagram",
+    "answer": 4
+  },
+  {
+    "question": "What does a stereotype of <<device>> on a node in a deployment diagram typically indicate?",
+    "choice1": "A software module",
+    "choice2": "A user interface element",
+    "choice3": "A hardware device",
+    "choice4": "A database server",
+    "answer": 3
+  },
+  
+  {
+    "question": "What does a component with a stereotype of <<web server>> typically represent in a deployment diagram?",
+    "choice1": "A hardware device",
+    "choice2": "A software module",
+    "choice3": "A database server",
+    "choice4": "A web-based user interface",
+    "answer": 2
+  }
+  
+]
